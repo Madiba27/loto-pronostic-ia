@@ -1,5 +1,5 @@
 streamlit
-tensorflow
+tensorflow-cpu
 beautifulsoup4
 requests
 pandas
